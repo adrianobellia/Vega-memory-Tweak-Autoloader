@@ -134,9 +134,9 @@ namespace Vega_Timings_tweak_autoloader
             this.label4.ForeColor = System.Drawing.Color.Gold;
             this.label4.Location = new System.Drawing.Point(474, 138);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(314, 13);
+            this.label4.Size = new System.Drawing.Size(302, 13);
             this.label4.TabIndex = 9;
-            this.label4.Text = "Warning: use this only if you are sure about of the memory timings";
+            this.label4.Text = "Warning: use this only if you are sure about the memory timings";
             // 
             // Form1
             // 
