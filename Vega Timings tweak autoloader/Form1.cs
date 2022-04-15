@@ -33,7 +33,7 @@ public partial class Form1 : Form
            "RAS",
            "RCDRD",
            "RCDWR",
-           "RCAB",
+           "RC",
            "RP",
            "RRDS",
            "RRDL",
